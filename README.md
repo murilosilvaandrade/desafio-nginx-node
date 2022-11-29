@@ -1,7 +1,7 @@
 # Desafio Nginx & Node - FullCycle
 
-## desafionode_nginx
-# Build 
+## Desafio Node Nginx
+# Build
 ```
 docker build -t 24121998/desafionode_nginx .
 ```
@@ -16,7 +16,7 @@ docker pull 24121998/desafionode_nginx
 docker run --rm 24121998/desafionode_nginx
 ```
 
-## desafionode_app
+## Desafio Node App
 # Build 
 ```
 docker build -t 24121998/desafionode_app .
